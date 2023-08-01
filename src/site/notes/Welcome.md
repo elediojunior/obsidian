@@ -9,3 +9,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 >[!IMPORTANT]
 >Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
+![Pasted image 20230801172252.png](/img/user/Attachments/2023/Pasted%20image%2020230801172252.png)
