@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-Seja bem bem-vindo(a)! 🪨
+Seja bem bem-vindo(a)!
 
 
 
